@@ -11,8 +11,8 @@ import java.util.List;
 public class App {
 
     public static void main(String[] args) {
-        
-        
+
+        System.out.println("测试");
         List<String> list = new ArrayList<>();
         list.add("zs");
         list.add("ls");
